@@ -40,14 +40,7 @@ justify-content:center;
 align-items:center;
 text-align:center;
 padding:20px;
-background:
-linear-gradient(
-rgba(0,0,0,0.75),
-rgba(0,0,0,0.75)
-),
-url('hero.jpg');
-background-size:cover;
-background-position:center;
+background:#111;
 }
 
 .hero-content{
