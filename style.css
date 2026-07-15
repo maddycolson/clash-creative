@@ -122,3 +122,20 @@ background:transparent;
 border:2px solid #D4AF37;
 color:#D4AF37;
 }
+.stats{
+display:flex;
+justify-content:center;
+gap:100px;
+padding:50px 20px;
+background:#0d0d0d;
+text-align:center;
+}
+
+.stats h3{
+font-size:3rem;
+color:#D4AF37;
+}
+
+.stats p{
+margin-top:10px;
+}
